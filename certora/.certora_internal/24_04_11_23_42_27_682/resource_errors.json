@@ -1,0 +1,17 @@
+{
+    "topics": [
+        {
+            "name": "type_check",
+            "messages": [
+                {
+                    "message": "Error in spec file (specification.spec:122:31): Syntax error: unexpected token near `=`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (specification.spec:125:32): Syntax error: unexpected token near `]`",
+                    "location": []
+                }
+            ]
+        }
+    ]
+}

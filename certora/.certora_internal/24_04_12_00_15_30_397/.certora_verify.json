@@ -1,0 +1,8 @@
+{
+    "importFilesToOrigRelpaths": {},
+    "primary_contract": "MyToken",
+    "specfile": "contracts/ERC20Fixed.spec",
+    "specfileOrigRelpath": "contracts/ERC20Fixed.spec",
+    "specfilesToImportDecls": {},
+    "type": "spec"
+}

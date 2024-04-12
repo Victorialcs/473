@@ -1,0 +1,8 @@
+{
+    "importFilesToOrigRelpaths": {},
+    "primary_contract": "MyToken",
+    "specfile": "/Users/juliakashimura/Desktop/COS473/certora/contracts/specification.spec",
+    "specfileOrigRelpath": "contracts/specification.spec",
+    "specfilesToImportDecls": {},
+    "type": "spec"
+}

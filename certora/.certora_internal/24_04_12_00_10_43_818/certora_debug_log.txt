@@ -1,0 +1,1 @@
+Saving last configuration file to .certora_internal/24_04_12_00_10_43_818/run.conf

@@ -1,0 +1,25 @@
+{
+    "CLI_version": "7.3.0",
+    "branch": "",
+    "conf": {
+        "files": [
+            "contracts/MyToken.sol"
+        ],
+        "msg": "Verification of MyToken",
+        "process": "emv",
+        "verify": "MyToken:contracts/specification.spec"
+    },
+    "cwd_relative": ".",
+    "dirty": true,
+    "origin": "",
+    "raw_args": [
+        "/usr/local/bin/certoraRun",
+        "contracts/MyToken.sol",
+        "--verify",
+        "MyToken:contracts/specification.spec",
+        "--msg",
+        "Verification of MyToken"
+    ],
+    "revision": "",
+    "timestamp": "1712907826.823784"
+}

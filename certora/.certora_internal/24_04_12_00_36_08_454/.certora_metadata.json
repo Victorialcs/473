@@ -1,0 +1,22 @@
+{
+    "CLI_version": "7.3.0",
+    "branch": "",
+    "conf": {
+        "files": [
+            "contracts/MyToken.sol"
+        ],
+        "process": "emv",
+        "verify": "MyToken:contracts/ERC20Fixed.spec"
+    },
+    "cwd_relative": ".",
+    "dirty": true,
+    "origin": "",
+    "raw_args": [
+        "/usr/local/bin/certoraRun",
+        "contracts/MyToken.sol",
+        "--verify",
+        "MyToken:contracts/ERC20Fixed.spec"
+    ],
+    "revision": "",
+    "timestamp": "1712910968.695979"
+}

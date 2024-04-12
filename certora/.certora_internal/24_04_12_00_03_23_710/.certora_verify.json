@@ -1,0 +1,8 @@
+{
+    "importFilesToOrigRelpaths": {},
+    "primary_contract": "MyToken",
+    "specfile": "contracts/specification.spec",
+    "specfileOrigRelpath": "contracts/specification.spec",
+    "specfilesToImportDecls": {},
+    "type": "spec"
+}

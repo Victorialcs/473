@@ -1,0 +1,17 @@
+Saving last configuration file to .certora_internal/24_04_12_00_24_23_486/run.conf
+There is no TAC file. Going to script EVMVerifier/certoraBuild.py to main_with_args()
+Creating dir /Users/juliakashimura/Desktop/COS473/certora/.certora_internal/24_04_12_00_24_23_486/.certora_config
+In /Users/juliakashimura/Desktop/COS473/certora/contracts/ERC20Fixed.spec, found the imports: []
+copying spec file /Users/juliakashimura/Desktop/COS473/certora/contracts/ERC20Fixed.spec to /Users/juliakashimura/Desktop/COS473/certora/.certora_internal/24_04_12_00_24_23_486/.certora_sources/.0_ERC20Fixed.spec.spec
+writing /Users/juliakashimura/Desktop/COS473/certora/.certora_internal/24_04_12_00_24_23_486/.certora_verify.json
+Path to typechecker is /usr/local/lib/python3.11/site-packages/certora_jars/Typechecker.jar
+running ['java', '-jar', '/usr/local/lib/python3.11/site-packages/certora_jars/Typechecker.jar', '-buildDirectory', '/Users/juliakashimura/Desktop/COS473/certora/.certora_internal/24_04_12_00_24_23_486']
+Failed to compile spec files:
+[main] ERROR ALWAYS - Found errors in contracts/ERC20Fixed.spec:
+[main] ERROR ALWAYS - Error in spec file (ERC20Fixed.spec:7:24): Syntax error: unexpected token near `(`
+[main] ERROR ALWAYS - Error in spec file (ERC20Fixed.spec:131:22): Syntax error: unexpected token near `(`
+build failed
+Failure traceback: 
+CertoraUserInputError: CVL specification syntax check failed
+Encountered an error running Certora Prover:
+CVL specification syntax check failed
