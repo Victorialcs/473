@@ -14,7 +14,7 @@ def get_chatgpt_response(prompt_text):
     if response.choices:
         return(response.choices[0].message.content.strip())
     else:
-        print("ERROR ERROR ERROR NO MESSAGE FOUND")
+        print("ERROR")
         # Extracting the text from the response
 
 # Example usage
