@@ -6,6 +6,7 @@ def feedback_loop(str user_prompt)
     for i in range(0,7):
         interation = get_chatgpt_response(user_prompt)
         feedback = run_slither_on_contract(str(interation))
+        user_prompt = user_prompt + "edit based on the feedback from slither" + feedback
     
     return iteration
 
